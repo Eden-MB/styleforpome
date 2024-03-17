@@ -1,1 +1,11 @@
+.fix {
+  object-fit: fill;
+}
 
+.big-font {
+  font-size: 60px;
+}
+
+.medium-font{
+  font-size: 40px;
+}
